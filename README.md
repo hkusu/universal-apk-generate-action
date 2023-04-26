@@ -1,3 +1,7 @@
+# :warning: DEPRECATED
+
+This action is deprecated. Use [snnaplab/universal-apk-generate-action](https://github.com/snnaplab/universal-apk-generate-action) instead.
+
 # Universal APK Generate Action
 
 Generate Universal APK file from Android App Bundle file. APK file is Useful for testing on devices.
